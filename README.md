@@ -1,4 +1,4 @@
-# ISE-5984---Statistical-Learning-and-Data-Science--HW-1
+# ISE-5984---Statistical-Learning-and-Data-Science--Homework-1
 Using the R programming language, supervised machine learning algorithms and various data analysis techniques are implemented to analyze home equity loan, zipcode, and prostate cancer data.
 
 Questions:
